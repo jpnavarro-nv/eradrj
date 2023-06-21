@@ -1,7 +1,7 @@
-desafio/input/*.dcd
-desafio/serial/*.dat
-desafio/serial/rdf
-desafio/serial/*.nsys-rep
-desafio/serial/*.sqlite
+hackathon/n_body/input/*.dcd
+hackathon/n_body/serial/*.dat
+hackathon/n_body/serial/rdf
+hackathon/n_body/serial/*.nsys-rep
+hackathon/n_body/serial/*.sqlite
 jacobi/*.o
 jacobi/laplace
