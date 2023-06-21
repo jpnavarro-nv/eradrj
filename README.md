@@ -6,7 +6,7 @@ Para executar os códigos-exemplo, será necessário a instalação do NVIDIA HP
 
 ## Getting Started
 
-Após concluída a instalação do NVIDIA HPC SDK no diretório `/opt/nvidia/hpc_sdk/Linux_x86_64/23.5/`, não se esqueça ou de adicionar os seguintes comandos no seu `bashrc`, ou executar os comandos a cada novo terminal de trabalho.
+Após concluída a instalação do NVIDIA HPC SDK no diretório `/opt/nvidia/hpc_sdk/Linux_x86_64/23.5/`, não se esqueça ou de adicionar os seguintes comandos no seu `bashrc`, ou executar os comandos a cada novo terminal de trabalho (antes da compilação).
 
 ```
 $ NVARCH=`uname -s`_`uname -m`; export NVARCH
