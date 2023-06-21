@@ -196,6 +196,7 @@ void pair_gpu(const double *d_x, const double *d_y, const double *d_z,
 				if (r < cut)
 				{
 					ig2 = (int)(r / del);
+#pragma acc atomic					
 					d_g2[ig2] = d_g2[ig2] + 1;
 				}
 			}
