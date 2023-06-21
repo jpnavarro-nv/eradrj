@@ -1,0 +1,7 @@
+desafio/input/*.dcd
+desafio/serial/*.dat
+desafio/serial/rdf
+desafio/serial/*.nsys-rep
+desafio/serial/*.sqlite
+jacobi/*.o
+jacobi/laplace
