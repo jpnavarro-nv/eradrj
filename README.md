@@ -2,7 +2,7 @@
 
 Bem vindo ao repositório do curso introdutório de OpenACC, lecionado por João Paulo Navarro, Arquiteto de Soluções na NVIDIA.
 
-Para executar os códigos-exemplo, será necessário a instalação do (NVIDIA HPC SDK)[https://developer.nvidia.com/hpc-sdk], preferencialmente na versão 23.5. Caso opte por uma versão alternativa, considere alterar os caminhos padrão utilizados durante as compilações dos exemplos.
+Para executar os códigos-exemplo, será necessário a instalação do NVIDIA HPC SDK (https://developer.nvidia.com/hpc-sdk), preferencialmente na versão 23.5. Caso opte por uma versão alternativa, considere alterar o caminho padrão utilizado durante as compilações dos exemplos.
 
 ## Getting Started
 
