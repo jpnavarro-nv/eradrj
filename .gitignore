@@ -5,3 +5,5 @@ hackathon/n_body/serial/*.nsys-rep
 hackathon/n_body/serial/*.sqlite
 jacobi/*.o
 jacobi/laplace
+hackathon/n_body/serial/*.qdstrm
+hackathon/*.log
