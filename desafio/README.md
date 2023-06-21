@@ -1,6 +1,6 @@
 ## Desafio RDF
 
-Na pasta `input`, descarregue o arquivo deste link.
+Na pasta `input`, descarregue o arquivo deste [link](https://drive.google.com/file/d/120MiaG1nt78YyyEpQEEAk81L0qEDP6Ux/view?usp=sharing).
 
 A execução do código gera dois arquivos de saída, dentre eles o `Pair_entropy.dat`. Sempre verifique a saída da versão paralelizada para assegurar a corretude to resultado. Com o seguinte comando:
 
