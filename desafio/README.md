@@ -5,7 +5,7 @@ Na pasta `input`, descarregue o arquivo deste [link](https://drive.google.com/fi
 A execução do código gera dois arquivos de saída, `RDF.dat` e `Pair_entropy.dat`. Sempre verifique a saída da versão paralelizada para assegurar a corretude to resultado, com o seguinte comando:
 
 ```
-! cat Pair_entropy.dat
+!cat Pair_entropy.dat
 ```
 
 Os valores esperados são:
