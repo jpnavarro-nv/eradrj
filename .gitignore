@@ -7,3 +7,4 @@ jacobi/*.o
 jacobi/laplace
 hackathon/n_body/serial/*.qdstrm
 hackathon/*.log
+hackathon/n_body/*.log
