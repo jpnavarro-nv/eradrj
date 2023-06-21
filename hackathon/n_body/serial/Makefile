@@ -9,4 +9,4 @@ rdf: rdf.cpp
 	${CC} ${CFLAGS} ${ACCFLAGS} -o rdf rdf.cpp ${NVTXLIB} 
 
 clean:
-	rm -f *.o rdf
+	rm -f *.o rdf *.dat *.sqlite *.nsys-rep
